@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'artemis-talita'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59D7A27BF617407B9BAAA02643039C5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA84257DA6874A178B64DC6EEDDFCB73 }}
